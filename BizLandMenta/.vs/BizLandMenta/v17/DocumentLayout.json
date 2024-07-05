@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\BizLandMenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01994A36-176C-45F3-AD98-67759FFDAE48}|BizLandMenta.csproj|c:\\users\\asus\\source\\repos\\bizlandmenta\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01994A36-176C-45F3-AD98-67759FFDAE48}|BizLandMenta.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01994A36-176C-45F3-AD98-67759FFDAE48}|BizLandMenta.csproj|c:\\users\\asus\\source\\repos\\bizlandmenta\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01994A36-176C-45F3-AD98-67759FFDAE48}|BizLandMenta.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01994A36-176C-45F3-AD98-67759FFDAE48}|BizLandMenta.csproj|c:\\users\\asus\\source\\repos\\bizlandmenta\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01994A36-176C-45F3-AD98-67759FFDAE48}|BizLandMenta.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01994A36-176C-45F3-AD98-67759FFDAE48}|BizLandMenta.csproj|c:\\users\\asus\\source\\repos\\bizlandmenta\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01994A36-176C-45F3-AD98-67759FFDAE48}|BizLandMenta.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01994A36-176C-45F3-AD98-67759FFDAE48}|BizLandMenta.csproj|c:\\users\\asus\\source\\repos\\bizlandmenta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01994A36-176C-45F3-AD98-67759FFDAE48}|BizLandMenta.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01994A36-176C-45F3-AD98-67759FFDAE48}|BizLandMenta.csproj|c:\\users\\asus\\source\\repos\\bizlandmenta\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01994A36-176C-45F3-AD98-67759FFDAE48}|BizLandMenta.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BizLandMenta\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BizLandMenta\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T15:17:19.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BizLandMenta\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BizLandMenta\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T15:16:04.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BizLandMenta\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BizLandMenta\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T14:29:52.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BizLandMenta\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BizLandMenta\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:17:32.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BizLandMenta\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BizLandMenta\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAALABAAAAAAAAAAAAAOYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T14:17:26.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BizLandMenta\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BizLandMenta\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:17:09.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
